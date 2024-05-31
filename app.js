@@ -1,2 +1,3 @@
 const date = new Date()
-console.log(`Hola, la fecha de hoy es ${date}`)
+const nombre = 'Sebastian'
+console.log(`Hola ${nombre}, la fecha de hoy es ${date}`)
